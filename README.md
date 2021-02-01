@@ -30,3 +30,9 @@ New Unity as it is in use on my Desktop
 
 ### <u>Editing the layout to better suit you:</u>
 You can edit the layout by right clicking onto the panels and choosing either "Add Widgets" to add Plasmoids or "Edit Panel" to edit the current panel.
+
+---
+## More Stuff (from the screenshot):
+- GTK,Qt5, Plasma: [Sweet Mars](https://store.kde.org/p/1393507/) by [EliverLara](https://github.com/EliverLara) 
+- Icons: [McMojave-Circle](https://store.kde.org/p/1305429)
+- Cursors: [Capitaine Cursors](https://store.kde.org/p/1148692)
