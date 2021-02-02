@@ -36,3 +36,4 @@ You can edit the layout by right clicking onto the panels and choosing either "A
 - GTK,Qt5, Plasma: [Sweet Mars](https://store.kde.org/p/1393507/) by [EliverLara](https://github.com/EliverLara) 
 - Icons: [McMojave-Circle](https://store.kde.org/p/1305429)
 - Cursors: [Capitaine Cursors](https://store.kde.org/p/1148692)
+- Wallpaper: Taken from the song [スピークイージー by wotaku](https://www.youtube.com/watch?v=P8aUNilN7JQ)
