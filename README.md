@@ -20,6 +20,7 @@ New Unity as it is in use on my Desktop
   - [Netspeed Widget](https://store.kde.org/p/998895)
   - [USwitcher](https://store.kde.org/p/1194339)
   - [Present Windows Button](https://store.kde.org/p/1181039)
+  - [System Load Viewer](https://store.kde.org/p/1474921/) [As of Plasma 5.21]
 - [My layout file](New-Unity.layout.latte)
 
 ### <u>"Installing":</u> 
@@ -71,7 +72,7 @@ You can edit the layout by right clicking onto the panels and choosing either "A
 
 ---
 ## More Stuff (from the screenshot):
-- GTK,Qt5, Plasma: [Sweet Mars](https://store.kde.org/p/1393507/) by [EliverLara](https://github.com/EliverLara) 
+- GTK, Qt5, Plasma: [Sweet Mars](https://store.kde.org/p/1393507/) by [EliverLara](https://github.com/EliverLara) 
 - Icons: [McMojave-Circle](https://store.kde.org/p/1305429)
 - Cursors: [Capitaine Cursors](https://store.kde.org/p/1148692)
 - Wallpaper: Taken from the song [スピークイージー by wotaku](https://www.youtube.com/watch?v=P8aUNilN7JQ)
