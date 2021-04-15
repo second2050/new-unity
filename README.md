@@ -76,4 +76,3 @@ You can edit the layout by right clicking onto the panels and choosing either "A
 - Icons: [McMojave-Circle](https://store.kde.org/p/1305429)
 - Cursors: [Capitaine Cursors](https://store.kde.org/p/1148692)
 - Wallpaper: Taken from the song [スピークイージー by wotaku](https://www.youtube.com/watch?v=P8aUNilN7JQ)
-- 
