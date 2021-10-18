@@ -16,8 +16,6 @@ New Unity as it is in use on my Desktop
   - [Window AppMenu](https://store.kde.org/p/1274975/)
     - This is replaceable with the default Plasmoid "Global Menu"
   - [USwitcher](https://store.kde.org/p/1194339)
-  - [System Load Viewer](https://store.kde.org/p/1474921/) [As of Plasma 5.21]
-  - [Better Inline Clock](https://store.kde.org/p/1245902)
 - [My layout file](New-Unity.layout.latte)
 
 ### <u>"Installing":</u> 
@@ -29,7 +27,7 @@ New Unity as it is in use on my Desktop
 5. the switch to the "Preferences" tab and enable 
    "Support borderless maximized windows in different layouts"
 6. Click on "Apply"
-7. Clock on the layout "New Unity" and then on the button "Switch"
+7. Click on the layout "New Unity" and then on the button "Switch"
 
 ### <u>Verifying that everything works™:</u>
 You should now check if everything is correctly loaded
@@ -38,23 +36,12 @@ You should now check if everything is correctly loaded
    - Window Buttons (Close, Maxmimize/Restore, Minimize buttons)
    - Window Title (It should show the application title; in this case "Dolphin")
    - Window AppMenu (The menu bar of the application)
-   - Netspeed Widget (Plasmoid which shows how big your network traffic is)
-   - System Load Viewer (Two bars which show CPU and RAM Usage)
    - System Tray
-   - Notifications
-   - Clipboard
-   - KDE Connect
-   - Night Color Control
-   - Removable Devices
-   - Bluetooth
-   - Network
-   - Audio
-   - Better Inline Clock
+   - Clock
    - USwitcher
 3. Now check if the side bar has all plasmoids (from top to bottom):
    - Application Launcher
    - Latte Tasks (The many application icons)
-   - Desktop/Workspace Switcher
    - Trash
 
 Is everything loaded?
